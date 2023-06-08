@@ -1,0 +1,23 @@
+{
+  "name": "blockchain-developer-basic",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jihadhussaini/Blockchain-Developer-Basic.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jihadhussaini/Blockchain-Developer-Basic/issues"
+  },
+  "homepage": "https://github.com/jihadhussaini/Blockchain-Developer-Basic#readme",
+  "dependencies": {
+    "remixd": "^0.2.4"
+  }
+}
