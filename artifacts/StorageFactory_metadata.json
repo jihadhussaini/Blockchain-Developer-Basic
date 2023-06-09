@@ -105,11 +105,11 @@
 			]
 		},
 		"storageFactory.sol": {
-			"keccak256": "0xf9810158685c98de03e78dd442c89c22455fd0f4f3611a9c728215bdd8cd158f",
+			"keccak256": "0x62c90d4b289d745895e5f88a6b6b3ac51cc4d676f4024e1d5ad8dc127fab5d15",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://150d8677042fc2dd70ccee6e2ad7af3d1d4991ad22c8998677f1a76ebd31d824",
-				"dweb:/ipfs/QmZUBfbpcAXLzvTtEVpTJ1Nhbt82E9rD7rgTjDmRAXz7tt"
+				"bzz-raw://ba993f000bed04948983d3e66c9f4fd15ec90ca10477e925e59d49ec965805fe",
+				"dweb:/ipfs/QmVfxVSjFYSwcfWdmH9VSHPK7MZWN6N4mxNfBU6uKj957p"
 			]
 		}
 	},
